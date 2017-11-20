@@ -1,0 +1,2 @@
+C:\Users\nicks\source\repos\FifteenPuzzle\FifteenPuzzle\FifteenPuzzle.UWP\FifteenPuzzle.UWP.csproj;x86
+C:\Users\nicks\source\repos\FifteenPuzzle\FifteenPuzzle\FifteenPuzzle\FifteenPuzzle.csproj;neutral

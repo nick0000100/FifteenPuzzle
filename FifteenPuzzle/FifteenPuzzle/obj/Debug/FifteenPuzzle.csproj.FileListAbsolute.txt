@@ -1,0 +1,16 @@
+C:\Users\nicks\source\repos\FifteenPuzzle\FifteenPuzzle\FifteenPuzzle\bin\Debug\FifteenPuzzle.dll
+C:\Users\nicks\source\repos\FifteenPuzzle\FifteenPuzzle\FifteenPuzzle\bin\Debug\FifteenPuzzle.pdb
+C:\Users\nicks\source\repos\FifteenPuzzle\FifteenPuzzle\FifteenPuzzle\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\nicks\source\repos\FifteenPuzzle\FifteenPuzzle\FifteenPuzzle\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\nicks\source\repos\FifteenPuzzle\FifteenPuzzle\FifteenPuzzle\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\nicks\source\repos\FifteenPuzzle\FifteenPuzzle\FifteenPuzzle\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\nicks\source\repos\FifteenPuzzle\FifteenPuzzle\FifteenPuzzle\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\nicks\source\repos\FifteenPuzzle\FifteenPuzzle\FifteenPuzzle\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\nicks\source\repos\FifteenPuzzle\FifteenPuzzle\FifteenPuzzle\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\nicks\source\repos\FifteenPuzzle\FifteenPuzzle\FifteenPuzzle\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\nicks\source\repos\FifteenPuzzle\FifteenPuzzle\FifteenPuzzle\obj\Debug\FifteenPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\nicks\source\repos\FifteenPuzzle\FifteenPuzzle\FifteenPuzzle\obj\Debug\FifteenPuzzle.MainPage.xaml.g.cs
+C:\Users\nicks\source\repos\FifteenPuzzle\FifteenPuzzle\FifteenPuzzle\obj\Debug\FifteenPuzzle.App.xaml.g.cs
+C:\Users\nicks\source\repos\FifteenPuzzle\FifteenPuzzle\FifteenPuzzle\obj\Debug\FifteenPuzzle.dll
+C:\Users\nicks\source\repos\FifteenPuzzle\FifteenPuzzle\FifteenPuzzle\obj\Debug\FifteenPuzzle.pdb
+C:\Users\nicks\source\repos\FifteenPuzzle\FifteenPuzzle\FifteenPuzzle\obj\Debug\FifteenPuzzle.csprojResolveAssemblyReference.cache
